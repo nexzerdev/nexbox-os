@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[2634],{192(s,t,o){o.r(t),o.d(t,{default:()=>n});var e=o(6347),a=o(4848);function n(){return(0,a.jsx)(e.rd,{to:"/nexbox-os/docs/getting-started/what-is-nexbox"})}}}]);

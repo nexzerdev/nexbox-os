@@ -1,0 +1,41 @@
+/* Nexbox OS — Docusaurus theme */
+
+:root {
+  --ifm-color-primary: #008c68;
+  --ifm-color-primary-dark: #007d5d;
+  --ifm-color-primary-darker: #007658;
+  --ifm-color-primary-darkest: #006149;
+  --ifm-color-primary-light: #009b73;
+  --ifm-color-primary-lighter: #00a278;
+  --ifm-color-primary-lightest: #00b787;
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 140, 104, 0.1);
+  --ifm-font-family-base: 'Nunito', ui-sans-serif, system-ui, sans-serif;
+  --ifm-heading-font-family: 'Space Grotesk', 'Ubuntu', ui-sans-serif;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #2dffb3;
+  --ifm-color-primary-dark: #0affa9;
+  --ifm-color-primary-darker: #00f7a2;
+  --ifm-color-primary-darkest: #00cc86;
+  --ifm-color-primary-light: #50ffbc;
+  --ifm-color-primary-lighter: #5dffc0;
+  --ifm-color-primary-lightest: #80ffcd;
+  --ifm-background-color: #061826;
+  --ifm-background-surface-color: #0a1f30;
+  --docusaurus-highlighted-code-line-bg: rgba(45, 255, 179, 0.1);
+}
+
+[data-theme='dark'] pre {
+  background: #030d18 !important;
+}
+
+[data-theme='dark'] .navbar {
+  background: #0a1f30;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+
+.menu__link--active {
+  font-weight: 600;
+}

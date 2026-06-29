@@ -37,7 +37,7 @@ const config = {
     ['classic', ({
       docs: {
         sidebarPath: './sidebars.js',
-        editUrl: 'https://github.com/nexzerdev/nexbox-os/tree/main/',
+        editUrl: undefined,
       },
       blog: false,
       theme: { customCss: './src/css/custom.css' },

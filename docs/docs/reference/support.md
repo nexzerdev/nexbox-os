@@ -7,9 +7,12 @@ title: Support
 
 ## Community
 
-- Nexzer Academy: **nexzer.org**
-- Nexbox issues: **nexzer.org/issues**
-- Community discussion: **nexzer.org/community**
+Join the Nexzer Discord server to ask questions, report issues, and connect with other Nexbox OS users.
+
+[Join the Nexzer Discord](https://discord.gg/FxbJuG7jDv)
+
+- General questions and help: **#general**
+- Bug reports and issues: post in Discord or open a [GitHub Issue](https://github.com/nexzerdev/nexbox-os/issues)
 
 ## Reporting bugs
 

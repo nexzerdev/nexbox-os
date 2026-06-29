@@ -1,34 +1,40 @@
 # Nexbox OS
 
-Official documentation for Nexbox OS, an offensive security distribution built on Kali Linux.
+Nexbox OS is an offensive security distribution built on Kali Linux. It is designed for hands-on labs, training, and authorised offensive security engagements.
 
-**Live site:** https://nexzerdev.github.io/nexbox-os/
+## What makes Nexbox different
 
-## What is Nexbox OS
+- **Slim base image (3.8 GB)** that includes only the universally useful offensive tools rather than the full Kali catalogue
+- **nexbox-tools** — a single command to browse and install curated tool packs by category
+- **Brand-coherent environment** built for professionals who want a clean, focused workspace
+- **Built on Kali Linux** so all existing Kali tooling, repositories, and documentation apply
 
-Nexbox OS is a curated, slim, and brand-coherent offensive security operating system built on Kali Linux. It ships a focused set of must-have tools out of the box and lets users install additional tool categories on demand through a single command.
+## Documentation
 
-## Running the docs locally
+Full documentation is available at: https://nexzerdev.github.io/nexbox-os/
 
-```bash
-cd docs
-npm install
-npm start
-```
+Topics covered:
+- System requirements
+- Downloading and verifying the image
+- Booting from USB and installing to disk
+- Running in a virtual machine
+- Installing and managing tools with nexbox-tools
+- Reference and troubleshooting
 
-The site will be available at http://localhost:3000/nexbox-os/
+## System requirements
 
-## Building for production
-
-```bash
-cd docs
-npm run build
-```
-
-## Deployment
-
-The docs are automatically deployed to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.
+| Component | Minimum |
+|-----------|---------|
+| CPU | 64-bit (amd64), 1 GHz dual-core |
+| RAM | 4 GB |
+| USB stick | 8 GB (Ventoy or dd written) |
+| Architecture | amd64 (Intel / AMD 64-bit) |
 
 ## Community
 
-Join the Nexzer Discord: https://discord.gg/JX5qQYKf43
+Join the Nexzer Discord for support, questions, and community discussion:
+https://discord.gg/JX5qQYKf43
+
+## License
+
+For authorised use only. See [License and trademarks](https://nexzerdev.github.io/nexbox-os/docs/reference/license) for details.

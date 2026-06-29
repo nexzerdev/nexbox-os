@@ -4,6 +4,7 @@ Nexbox OS is an offensive security distribution built on Kali Linux. It is desig
 
 ## What makes Nexbox different
 
+- **Live boot ready**: boot from USB and get to work instantly with no installation required. No spending an hour setting up before you can start
 - **Slim base image (3.8 GB)** that includes only the universally useful offensive tools rather than the full Kali catalogue
 - **nexbox-tools**: a single command to browse and install curated tool packs by category
 - **Brand-coherent environment** built for professionals who want a clean, focused workspace

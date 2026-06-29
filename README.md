@@ -31,4 +31,4 @@ The docs are automatically deployed to GitHub Pages when changes are pushed to t
 
 ## Community
 
-Join the Nexzer Discord: https://discord.gg/FxbJuG7jDv
+Join the Nexzer Discord: https://discord.gg/JX5qQYKf43
